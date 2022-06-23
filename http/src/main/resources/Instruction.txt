@@ -1,0 +1,26 @@
+Instruction
+Enter the number to send the request:
+Everything about your Pets:
+1 = Create pet;
+2 = Upload pet image;
+3 = Update existing pet;
+4 = Find pet by status;
+5 = Find pet by id;
+6 = Update pet by id;
+7 = Delete pet by id;
+
+Access to Petstore orders:
+8 = Order purchasing pet;
+9 = Find order by id;
+10 = Delete order by id;
+11 = Inventory;
+
+Operations about user:
+12 = Create users with list;
+13 = Find by username;
+14 = Update by username;
+15 = Delete by username;
+16 = Login;
+17 = Logout;
+18 = Created user;
+----------
